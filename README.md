@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shedrick!
+## Hi, my name is Shedrick
 
 ### About Me
 
@@ -6,9 +6,9 @@ I'm a Computer Science student at San Francisco State University, looking to gai
 
 ### 🔭 Projects & Interests
 
-- **Discord Bot Development**: Currently working on a bot using discord.js.
-- **Web Development**: Building web applications with modern frameworks and technologies.
-- **Open Source**: Contributing to open-source projects and collaborating with the community.
+- **Studies**: Recently I've become very interested in my math studies. Having a great time exploring Pre-Calculus and Calculus very deeply.
+- **Web Development**: I'm spending time filling in knowledge gaps using my current Computer Science courses at SFSU.
+- **Open Source**: Exploring how to contribute to open-source projects and collaborte with the OSS community.
 
 ### 🌱 Skills & Technologies
 
