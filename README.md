@@ -1,4 +1,4 @@
-## Hi, my name is Shedrick
+## Hi, My Name is Shedrick
 
 ### About Me
 
