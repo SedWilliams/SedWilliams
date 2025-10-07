@@ -7,7 +7,7 @@ I'm a Computer Science student at San Francisco State University, looking to gai
 ### Projects & Interests
 
 - **Studies**: Recently I've become very interested in my math studies. Having a great time exploring Pre-Calculus and Calculus very deeply.
-- **Web Development**: I'm spending  most of my time filling in knowledge gaps using my current Computer Science courses at SFSU.
+- **Web Development**: I'm spending most of my time filling in knowledge gaps using my current Computer Science courses at SFSU.
 - **Open Source**: Exploring how to contribute to open-source projects and collaborte with the OSS community.
 
 ### GitHub Stats
