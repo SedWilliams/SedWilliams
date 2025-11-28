@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a Computer Science student at San Francisco State University, and a the moment I'm focusing on getting the most out of my studies and seeing what creative ways I can apply them. I blog over on my [portfolio](https://shedrickwilliams.me/home) site where you can expect to find posts about my perspective as a current college student in San Franciso, CA, what I learn along the way, and how exactly I learned it. Check me out for a fresh, non-corporate, view of the field. -Shedrick
+I'm a Computer Science student at San Francisco State University, and a the moment I'm focusing on getting the most out of my studies and seeing what ways I can apply what I learn. I write on my [portfolio](https://shedrickwilliams.me/home) site where you can expect to find posts about my perspective as a current college student in San Franciso, CA, what I learn along the way, and how exactly I learned it. -Shedrick
 
 ### GitHub Stats
 
