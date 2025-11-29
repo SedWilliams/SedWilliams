@@ -4,7 +4,7 @@ I'm a Computer Science student at San Francisco State University, and a the mome
 
 ### GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SedWilliams&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SedWilliams&showicons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SedWilliams&layout=compact&theme=radical)
 
 ### Get in Touch
