@@ -3,8 +3,4 @@ I'm a Computer Science student at San Francisco State University, and a the mome
 
 Go into no project or learning endeavor thinking you know everything or more than the next person, but instead, see what knowledge there is to gain from the project, endeavor, or person, and what you can do for them in return.
 
-[![Shedrick's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SedWilliams)](https://github.com/sedwilliams/github-readme-stats-fast)
-
-### Get in Touch
-- [Instagram](https://www.instagram.com/v.roo.m/)
-- [Email](mailto:shed3w@gmail.com)
+[Email](mailto:shed3w@gmail.com)
